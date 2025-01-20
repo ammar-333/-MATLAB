@@ -2,7 +2,7 @@
 
 these are 3 basic projects using MATLAP to manipulate imgaes and here a quick summery of them:
 
-Matlab function that takes a 2-d matrix of numbers of type uint8 as a parameter and
+1. Matlab function that takes a 2-d matrix of numbers of type uint8 as a parameter and
 returns the entropy value for the matrix.
 
 2. Matlab function that takes two input parameters: (1) a 2-d matrix before compression,
